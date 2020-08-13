@@ -21,7 +21,7 @@ class Home extends Component {
                 <section>
                     <p>
                         RJ services is a family owned and operated handyman business. With a combined
-                        10+ years of experience in carpentry and plumbing our team is 
+                        10+ years of experience in carpentry and licensed plumbing our team is 
                         here to meet all of your remodeling, plumbing, and other home repair needs.
                     </p>
                 </section>
