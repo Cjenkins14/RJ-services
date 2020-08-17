@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import Gallery from 'react-photo-gallery';
 import './Gallery.css';
 import NavBar from '../NavBar/NavBar';
-import photos from './photos'
+import photos from './photos';
 
 class PhotoGallery extends Component {
     render() {
