@@ -22,22 +22,28 @@ class Services extends Component {
                     <label htmlFor='plumb-list'>Plumbing</label>
                     <ul id='plumb-list'>
                         <li>Repairs</li>
-                        <li>Slab Leaks</li>
+                        <li>Slab Leaks and Repairs</li>
                         <li>Leaking Pipes</li>
-                        <li></li>
+                        <li>Drain Clean Outs</li>
+                        <li>Sewer Clean Outs</li>
+                        <li>Jet Wash Drains</li>
+                        <li>Gas Line Relocation</li>
+                        <li>Gas Leaks</li>
+
                     </ul>
 
                     <label htmlFor='carp-list'>Carpentry</label>
                     <ul id='carp-list'>
                         <li>Restoration</li>
                         <li>Remodeling</li>
-                        <li>Custom carpentry</li>
-                        <li>Outdoor construction</li>
+                        <li>Custom Carpentry</li>
+                        <li>New Construction</li>
+                        <li>Outdoor Construction</li>
                     </ul>
 
                     <label htmlFor='gen-list'>Additional Services</label>
                     <ul id='gen-list'>
-                        <li></li>
+                        <li>Additional</li>
                     </ul>
                 </div>
             </div>
