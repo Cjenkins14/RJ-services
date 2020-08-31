@@ -15,7 +15,7 @@ class Home extends Component {
                 <NavBar/>
 
                 <section>
-                    <h1>24/7 Emergency repair service</h1>
+                    <h1>24/7 Emergency Repair Service</h1>
                     <ul class='about-blurb'>
                         <li>
                             Family <br/>

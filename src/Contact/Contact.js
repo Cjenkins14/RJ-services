@@ -69,6 +69,9 @@ class Contact extends Component {
 
                 <NavBar/>
                 <section>
+                  <p>You may contact us via the emergency number listed on the home page or send an email here,
+                    we will respond to all requests as soon as possible.
+                  </p>
                     <form id='contact-form' className='appt-form' onSubmit={this.handleSubmit.bind(this)} method='POST'>
                         <fieldset>
                             <legend>Make an Appointment</legend>

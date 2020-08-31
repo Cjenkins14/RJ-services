@@ -5,6 +5,12 @@
     background-position: center bottom;
     background-repeat: no-repeat;
 }
+h1, p {
+    margin: 5%;
+}
+body {
+    font-family: 'Alata', sans-serif;
+}
 
 .logo-img {
     width: 20vh;

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import NavBar from '../NavBar/NavBar';
-
+import './Services.css'
 
 class Services extends Component {
     render() {
@@ -34,12 +34,7 @@ class Services extends Component {
                         <li>Remodeling</li>
                         <li>Custom Carpentry</li>
                         <li>New Construction</li>
-                        <li>Outdoor Construction</li>
-                    </ul>
-
-                    <label htmlFor='gen-list'>Additional Services</label>
-                    <ul id='gen-list'>
-                        <li>Additional</li>
+                        <li>Painting</li>
                     </ul>
                 </div>
             </div>
