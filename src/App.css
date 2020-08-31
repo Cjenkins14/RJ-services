@@ -6,5 +6,8 @@
     background-repeat: no-repeat;
 }
 
-
+.logo-img, .head {
+    width: 200px;
+    height: 200px;
+}
 /* monitor viewport size background-image: url('https://user-images.githubusercontent.com/54726437/91745571-c617a100-eb80-11ea-8a57-ba4c5de148b8.png'); */
