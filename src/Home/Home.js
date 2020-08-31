@@ -8,15 +8,14 @@ class Home extends Component {
             <div class='home-page'>
                 <header>
                     <div className='left'>
-                        <img className='logo-img' src='https://user-images.githubusercontent.com/54726437/91755430-b3a56380-eb90-11ea-9865-05b7bdf1b59e.png' />  
+                        <img className='logo-img' src='https://user-images.githubusercontent.com/54726437/91757054-61b20d00-eb93-11ea-8dbe-0b70ffb3113f.png ' />  
                     </div>
                 </header>
 
                 <NavBar/>
 
                 <section>
-                    <p>940-555-1234 <br/>
-                    24/7 Emergency repair sevice</p>
+                    <h1>24/7 Emergency repair service</h1>
                     <ul class='about-blurb'>
                         <li>
                             Family <br/>

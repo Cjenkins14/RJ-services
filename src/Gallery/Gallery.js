@@ -9,7 +9,9 @@ class PhotoGallery extends Component {
         return (
             <div className='Gallery'>
                  <header>
-                    <div className='left'>RJ Services</div>
+                    <div className='left'>
+                        <img className='logo-img' src='https://user-images.githubusercontent.com/54726437/91755430-b3a56380-eb90-11ea-9865-05b7bdf1b59e.png' />  
+                    </div>
                 </header>
 
                 <NavBar/>

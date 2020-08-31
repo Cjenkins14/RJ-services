@@ -29,7 +29,7 @@ class NavBar extends Component {
                 <Link to="/">Home</Link>
                 <Link to="/services" >Services</Link>
                 <Link to="/gallery">Gallery</Link>
-                <Link to="/testimony">Testimonials</Link>
+                {/* <Link to="/testimony">Testimonials</Link> */}
                 <Link to='/contact'>Contact</Link>
                 <button className="hamburger-button" onClick={this.myFunction}>
                     <i className="fa fa-bars"></i>
