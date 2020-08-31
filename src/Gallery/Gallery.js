@@ -10,12 +10,6 @@ class PhotoGallery extends Component {
             <div className='Gallery'>
                  <header>
                     <div className='left'>RJ Services</div>
-                    <div className='right'>
-                        <p>24/7 Emergency <br/> 
-                        handyman services
-                        </p>
-                    
-                    </div>
                 </header>
 
                 <NavBar/>

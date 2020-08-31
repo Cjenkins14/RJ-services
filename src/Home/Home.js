@@ -8,12 +8,6 @@ class Home extends Component {
             <div class='home-page'>
                 <header>
                     <div className='left'>RJ Services</div>
-                    <div className='right'>
-                        <p>24/7 Emergency <br/> 
-                        handyman services
-                        </p>
-                    
-                    </div>
                 </header>
 
                 <NavBar/>

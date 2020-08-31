@@ -63,12 +63,6 @@ class Contact extends Component {
             <div className='contact'>
                  <header>
                     <div className='left'>RJ Services</div>
-                    <div className='right'>
-                        <p>24/7 Emergency <br/> 
-                        handyman services
-                        </p>
-                    
-                    </div>
                 </header>
 
                 <NavBar/>
