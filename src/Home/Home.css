@@ -2,3 +2,24 @@
     display: flex;
     justify-content: flex-end;
 }
+
+.about-blurb > li {
+    list-style: none;
+    background: green;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;   
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.about-blurb {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10%;
+    padding: 0;
+}

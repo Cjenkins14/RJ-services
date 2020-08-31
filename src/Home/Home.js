@@ -13,11 +13,20 @@ class Home extends Component {
                 <NavBar/>
 
                 <section>
-                    <p>
-                        RJ services is a local family owned and operated handyman business. With a combined
-                        10+ years of experience in carpentry and licensed plumbing our team is 
-                        here to meet all of your remodeling, plumbing, and other home repair needs.
-                    </p>
+                    <p>940-555-1234 <br/>
+                    24/7 Emergency repair sevice</p>
+                    <ul class='about-blurb'>
+                        <li>
+                            Family <br/>
+                            owned
+                        </li>
+                        <li>
+                            Licensed
+                        </li>
+                        <li>
+                            Experienced
+                        </li>
+                    </ul>
                 </section>
             </div>
         )

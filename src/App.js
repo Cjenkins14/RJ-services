@@ -4,7 +4,7 @@ import Contact from './Contact/Contact';
 import Gallery from './Gallery/Gallery';
 import Home from './Home/Home';
 import Services from './Services/Services';
-import Testimony from './Testimony/Testimony';
+import './App.css'
 
 class App extends Component {
   render() {
