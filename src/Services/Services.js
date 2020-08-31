@@ -29,7 +29,7 @@ class Services extends Component {
                         <li>Jet Wash Drains</li>
                         <li>Gas Line Relocation</li>
                         <li>Gas Leaks</li>
-
+                        <li>New Construction</li>
                     </ul>
 
                     <label htmlFor='carp-list'>Carpentry</label>
