@@ -1,3 +1,6 @@
 .services-list {
     margin: 5%;
 }
+label {
+    font-size: 1.5em;
+}

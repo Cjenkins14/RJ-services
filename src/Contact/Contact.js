@@ -116,10 +116,10 @@ class Contact extends Component {
                                 </li>
                             </ul>
                         </fieldset>
-                        <section>
+                        <div className='buttons'>
                             <button className='submit-button' type='submit'>Submit</button>
                             <button className='reset-button' type='reset'>Clear</button>
-                        </section>
+                        </div>
                     </form>
                 </section>
             </div>
