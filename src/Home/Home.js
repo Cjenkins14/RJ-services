@@ -8,7 +8,11 @@ class Home extends Component {
             <div class='home-page'>
                 <header>
                     <div className='left'>
-                        <img className='logo-img' src='https://user-images.githubusercontent.com/54726437/91757054-61b20d00-eb93-11ea-8dbe-0b70ffb3113f.png ' />  
+                        <img 
+                        className='logo-img' 
+                        src='https://user-images.githubusercontent.com/54726437/91757054-61b20d00-eb93-11ea-8dbe-0b70ffb3113f.png' 
+                        alt='RJ services logos'
+                        />  
                     </div>
                 </header>
 

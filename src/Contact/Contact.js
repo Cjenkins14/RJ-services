@@ -63,7 +63,11 @@ class Contact extends Component {
             <div className='contact'>
                 <header>
                     <div className='left'>
-                        <img className='logo-img' src='https://user-images.githubusercontent.com/54726437/91755430-b3a56380-eb90-11ea-9865-05b7bdf1b59e.png' />  
+                        <img 
+                        className='logo-img' 
+                        src='https://user-images.githubusercontent.com/54726437/91755430-b3a56380-eb90-11ea-9865-05b7bdf1b59e.png' 
+                        alt='RJ services logos'
+                        />  
                     </div>
                 </header>
 
