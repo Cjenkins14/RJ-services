@@ -7,8 +7,9 @@ h1 {
 }
 
 .about-blurb > li {
+    color: white;
     list-style: none;
-    background: #5DD904;
+    background: black;
     border-radius: 50%;
     height: 100px;
     width: 100px;   
